@@ -1,0 +1,3 @@
+- NotNull chỉ kiểm tra giá trị khác null, nhưng không kiểm tra giá trị rỗng hoặc chỉ chứa khoảng trắng
+- Do chưa dùng @Valid nên Bean Validation chưa được kích hoạt
+- 
